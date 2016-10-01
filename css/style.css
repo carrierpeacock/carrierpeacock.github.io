@@ -4,10 +4,15 @@ body {
 }
 #mainHeader {
     color: white;
+    display: inline-block;
+    float: left;
+    margin-left: 40px;
 }
 #logoContainer {
-    width: 800px;
-    margin: 0 auto;
+    width: 400px;
+    margin-left: 20px;
+    display: inline-block;
+    float: left;
 }
 #logoContainer img {
     width: 100%;
