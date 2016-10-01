@@ -5,6 +5,10 @@ body {
 #mainHeader {
     color: white;
 }
-#logo {
-
+#logoContainer {
+    width: 800px;
+    margin: 0 auto;
+}
+#logoContainer img {
+    width: 100%;
 }
