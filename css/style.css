@@ -4,9 +4,11 @@ body {
 }
 #mainHeader {
     color: white;
-    display: inline-block;
-    float: left;
-    margin-left: 40px;
+    margin-left: 140px;
+}
+#mainDescription {
+    color: white;
+    margin-left: 140px;
 }
 #logoContainer {
     width: 100px;
