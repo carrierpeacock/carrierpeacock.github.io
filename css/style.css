@@ -9,7 +9,7 @@ body {
     color: white;
 }
 #mainContainer {
-    margin-left: 140px;
+    padding-left: 140px;
 }
 #logoContainer {
     width: 100px;
