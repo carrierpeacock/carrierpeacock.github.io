@@ -21,3 +21,6 @@ body {
 #logoContainer img {
     width: 100%;
 }
+legend {
+    color:white;
+}
