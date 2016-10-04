@@ -23,4 +23,6 @@ body {
 .pure-form legend {
     color:white;
 }
-
+label {
+    color:white;
+}
