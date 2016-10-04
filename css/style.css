@@ -26,3 +26,6 @@ body {
 label {
     color:white;
 }
+#info input {
+    width: 200px;
+}
