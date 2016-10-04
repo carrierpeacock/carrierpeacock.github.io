@@ -33,5 +33,5 @@ label {
     width: 200px;
 }
 form#info {
-    background-color: #ccc;
+    background-color: rgba(0, 0, 0, 0.7);
 }
