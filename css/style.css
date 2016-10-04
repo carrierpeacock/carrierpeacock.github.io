@@ -24,3 +24,6 @@ body {
 .pure-form legend {
     color:white;
 }
+input {
+    color: black;
+}
