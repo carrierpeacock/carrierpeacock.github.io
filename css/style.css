@@ -21,6 +21,6 @@ body {
 #logoContainer img {
     width: 100%;
 }
-legend {
+.pure-form legend {
     color:white;
 }
