@@ -18,7 +18,7 @@
     </div>
     <div id="mainContainer">
         <h1 id="mainHeader"> Carrier Peacock </h1>
-        <p id="mainDescription"> We make it easy to send cards to anyone at anytime.</p>
+        <p id="mainDescription"> We make it easy to send cards to anyone, anytime.</p>
         <form method="post">
             <input type="text" name="search" id="search_box" class='search_box'/>
             <input type="submit" value="Search" class="search_button" /><br />
