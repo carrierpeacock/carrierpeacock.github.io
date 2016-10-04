@@ -32,3 +32,6 @@ label {
 #info input:not(#terms) {
     width: 200px;
 }
+form#info {
+    background-color: white;
+}
