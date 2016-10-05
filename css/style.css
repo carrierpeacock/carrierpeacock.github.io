@@ -1,11 +1,12 @@
 @import url(http://fonts.googleapis.com/css?family=Lustria); /* font-family: 'Lustria', serif; */
 @import url(http://fonts.googleapis.com/css?family=Lato:400,300italic); /* font-family: 'Lato', sans-serif; */
+@import 'https://fonts.googleapis.com/css?family=Montserrat';
 body {
     background-color: black;
 }
 #mainHeader {
     color: white;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 #mainDescription {
     color: white;
