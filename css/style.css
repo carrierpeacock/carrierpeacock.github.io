@@ -55,7 +55,7 @@ form#info {
 }
 #card {
     width: 200px;
-    padding: 20px;
+    padding: 0px 20px 20px 20px;
 }
 #cardTitle {
     color: white;
