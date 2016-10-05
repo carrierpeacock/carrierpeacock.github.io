@@ -27,9 +27,6 @@ body {
 label {
     color: white;
 }
-#state {
-    width: 200px;
-}
 #info input:not(#terms) {
     /*width: 200px;*/
 }
