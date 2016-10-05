@@ -53,3 +53,6 @@ form#info {
     width: 200px;
     padding-bottom: 20px;
 }
+#cardTitle {
+    color: white;
+}
