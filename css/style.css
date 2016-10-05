@@ -31,7 +31,7 @@ label {
     width: 200px;
 }
 #info input:not(#terms) {
-    width: 200px;
+    /*width: 200px;*/
 }
 form#info {
     padding-left: 40px;
