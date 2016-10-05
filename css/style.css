@@ -51,6 +51,7 @@ form#info {
 }
 #cardDesc {
     color: white;
+    padding-bottom: 8px;
 }
 #card {
     width: 200px;
