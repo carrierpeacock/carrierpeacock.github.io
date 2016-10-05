@@ -7,6 +7,7 @@ body {
 #mainHeader {
     color: white;
     font-family: 'Montserrat', sans-serif;
+    padding-top: 20px;
 }
 #mainDescription {
     color: white;
