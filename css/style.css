@@ -1,11 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Lustria); /* font-family: 'Lustria', serif; */
+@import url(http://fonts.googleapis.com/css?family=Lato:400,300italic); /* font-family: 'Lato', sans-serif; */
 body {
     background-color: black;
 }
 #mainHeader {
     color: white;
+    font-family: 'Lato', sans-serif;
 }
 #mainDescription {
     color: white;
+    font-family: 'Lato', sans-serif;
 }
 #mainContainer {
     padding-left: 140px;
