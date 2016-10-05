@@ -42,3 +42,13 @@ form#info {
     -o-border-radius: 5px 5px 5px 5px;
     border-radius: 5px 5px 5px 5px;
 }
+#leftSide {
+    display: inline-block;
+    width: 400px;
+    float: left;
+}
+#rightSide {
+    display: inline-block;
+    width: 600px;
+    float: left;
+}
