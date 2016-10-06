@@ -38,6 +38,7 @@ body {
     height: 45px;
     line-height: 45px;
     display:inline-block;
+    margin: 0;
 }
 #mainHeader {
     color: black;
