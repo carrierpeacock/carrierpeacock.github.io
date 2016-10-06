@@ -10,6 +10,7 @@ body {
     float: left;
     font-size: 50px;
     line-height: 100px;
+    display:inline-block;
 }
 #mainDescription {
     color: white;
@@ -21,6 +22,9 @@ body {
 }
 #logoContainer {
     height: 100px;
+    display:table-cell;
+    height:300px;
+    vertical-align:middle;
 }
 #logoContainer img {
     float: right;
