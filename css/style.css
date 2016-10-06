@@ -10,7 +10,9 @@ body {
     padding-top: 20px;
     float: left;
     font-size: 50px;
-    vertical-align:middle;
+    height: 100px;
+    line-height: 100px;
+}
 }
 #mainDescription {
     color: white;
