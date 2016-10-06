@@ -10,20 +10,6 @@ body {
     padding:0;
     margin:0;
 }
-#navbar-primary .navbar-nav {
-  height:60px;
-  background-color: white;
-  width: 100%;
-  text-align: center;
-  > li {
-    display: inline-block;
-    float: none;
-    > a {
-      padding-left: 30px;
-      padding-right: 30px;
-    }
-  }
-}
 #mainHeader {
     color: black;
     font-family: 'Montserrat', sans-serif;
@@ -37,6 +23,7 @@ body {
 #mainImage {
     display: inline-block;
     height: 30px;
+
 }
 #mainDescription {
     color: white;
