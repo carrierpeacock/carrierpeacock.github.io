@@ -8,6 +8,7 @@ body {
     color: white;
     font-family: 'Montserrat', sans-serif;
     padding-top: 20px;
+    float: left;
 }
 #mainDescription {
     color: white;
@@ -20,11 +21,8 @@ body {
 #contain {
     padding-left: 140px;
 }
-#logoContainer {
-    width: 100px;
-    margin: 20px 0px 0px 0px;
-    display: inline-block;
-    float: right;
+#logoContainer img {
+    float:right;
 }
 #logoContainer img {
     width: 100%;
