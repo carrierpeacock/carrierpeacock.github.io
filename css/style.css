@@ -18,11 +18,12 @@ body {
     display:inline-block;
 }
 #mainHeader {
-    color: white;
+    color: black;
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
     display:inline-block;
     margin:0;
+    line-height: 30px;
 }
 #mainDescription {
     color: white;
