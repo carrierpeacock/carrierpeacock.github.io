@@ -7,6 +7,7 @@ body {
 #navbar {
     height: 40px;
     background-color: white;
+    display:table-cell;
 }
 #navbar img {
     line-height: 40px;
