@@ -10,16 +10,11 @@ body {
     padding:0;
     margin:0;
 }
-#logoContainer img {
-    display:inline-block;
-    height: 30px;
-    padding:0;
-    margin:0;
-}
 #mainHeader {
     color: black;
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
+    line-height: 40px;
     display:inline-block;
     text-align: center;
     padding:0;
