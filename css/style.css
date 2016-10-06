@@ -5,13 +5,23 @@ body {
     background-color: black;
 }
 #navbar {
-    height: 10px;
+    height: 40px;
     background-color: white;
+}
+#logoContainer {
+    display:table-cell;
+    height:30px;
+    vertical-align:middle;
+}
+#logoContainer img {
+    width: 30px;
+    vertical-align:middle;
+    display:inline-block;
+    text-align: right
 }
 #mainHeader {
     color: white;
     font-family: 'Montserrat', sans-serif;
-    float: left;
     font-size: 30px;
     display:inline-block;
 }
@@ -22,18 +32,6 @@ body {
 }
 #mainContainer {
     padding: 0 10%;
-}
-#logoContainer {
-    display:table-cell;
-    height:30px;
-    vertical-align:middle;
-}
-#logoContainer img {
-    float: right;
-    width: 30px;
-    vertical-align:middle;
-    display:inline-block;
-    text-align: right
 }
 .pure-form legend {
     color:white;
