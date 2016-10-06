@@ -7,15 +7,12 @@ body {
 #navbar {
     height: 40px;
     background-color: white;
-    display:table-cell;
 }
-#navbar img {
-    line-height: 40px;
+#logoContainer {
+    display: table-cell;
     height: 30px;
-    vertical-align:middle;
-    display:inline-block;
 }
-#mainContainer img {
+#logoContainer img {
     line-height: 40px;
     height: 30px;
     vertical-align:middle;
