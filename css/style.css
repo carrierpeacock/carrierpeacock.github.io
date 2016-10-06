@@ -23,17 +23,22 @@ body {
     text-align: middle;
     position:relative;
     top: 50%;
-transform: translateY(-50%);
--ms-transform: translateY(-50%);
--moz-transform: translateY(-50%);
--webkit-transform: translateY(-50%);
--o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
 }
 .logo {
     height:45px;
     line-height: 45px;
+    display:inline-block;
 }
-
+.logo p {
+    height: 45px;
+    line-height: 45px;
+    display:inline-block;
+}
 #mainHeader {
     color: black;
     font-family: 'Montserrat', sans-serif;
