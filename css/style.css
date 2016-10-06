@@ -22,10 +22,9 @@ body {
 }
 #logoContainer {
     width: 100px;
-    margin: 20px 0px 0px 20px;
+    margin: 20px 0px 0px 0px;
     display: inline-block;
     float: right;
-    position: fixed;
 }
 #logoContainer img {
     width: 100%;
