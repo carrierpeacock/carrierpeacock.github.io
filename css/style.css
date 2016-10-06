@@ -16,10 +16,10 @@ body {
     height: 28px;
     vertical-align:middle;
     display:inline-block;
-    padding-bottom: 2px;
+    margin-bottom: 2px;
 }
 #mainHeader {
-    padding-top: 3px;
+    margin-top: 3px;
     color: black;
     font-family: 'Montserrat', sans-serif;
     font-size: 27px;
