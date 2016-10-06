@@ -29,6 +29,10 @@ transform: translateY(-50%);
 -webkit-transform: translateY(-50%);
 -o-transform: translateY(-50%);
 }
+.logo {
+    height:30px;
+    line-height: 30px;
+}
 
 #mainHeader {
     color: black;
