@@ -39,6 +39,7 @@ body {
     line-height: 45px;
     display:inline-block;
     margin: 0;
+    padding-left: 10px;
 }
 #mainHeader {
     color: black;
