@@ -23,6 +23,7 @@ body {
 }
 #logoContainer img {
     float:right;
+    width: 150px;
 }
 #logoContainer img {
     width: 100%;
