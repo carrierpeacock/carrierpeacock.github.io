@@ -13,10 +13,9 @@ body {
     height: 30px;
 }
 #logoContainer img {
-    height: 28px;
+    line-height: 40px;
     vertical-align:middle;
     display:inline-block;
-    margin-bottom: 2px;
 }
 #mainHeader {
     margin-top: 3px;
