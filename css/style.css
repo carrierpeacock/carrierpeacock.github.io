@@ -9,15 +9,13 @@ body {
     background-color: white;
 }
 #logoContainer {
-    display:table-cell;
-    height:30px;
-    vertical-align:middle;
+    display: table-cell;
+    height: 30px;
 }
 #logoContainer img {
     width: 30px;
     vertical-align:middle;
     display:inline-block;
-    text-align: right
 }
 #mainHeader {
     color: white;
