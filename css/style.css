@@ -18,12 +18,10 @@ body {
 img {
   vertical-align: middle;
   display: table-cell;
-  width: 50px;
 }
 span {
   vertical-align: middle;
   display: table-cell;
-  width: 50px;
 }
 
 #navbar {
