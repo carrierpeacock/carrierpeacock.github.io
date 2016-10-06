@@ -24,7 +24,7 @@ body {
     width: 100px;
     margin: 20px 0px 0px 20px;
     display: inline-block;
-    float: left;
+    float: right;
     position: fixed;
 }
 #logoContainer img {
