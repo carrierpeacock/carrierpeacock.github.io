@@ -30,7 +30,7 @@ body {
     padding-top: 10px;
 }
 #mainContainer {
-    padding: 0 10%;
+    margin: 0 10%;
 }
 .pure-form legend {
     color:white;
