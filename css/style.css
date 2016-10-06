@@ -4,6 +4,19 @@
 body {
     background-color: black;
 }
+div #navv {
+  display: table;
+}
+
+img {
+  vertical-align: middle;
+  display: table-cell;
+}
+span {
+  vertical-align: middle;
+  display: table-cell;
+}
+
 #navbar {
     height: 60px;
     background-color: white;
