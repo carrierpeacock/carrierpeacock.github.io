@@ -5,8 +5,8 @@ body {
     background-color: black;
 }
 #navv {
-  display: table;
-      height: 60px;
+    display: table;
+    height: 60px;
     background-color: white;
     padding:0;
     margin:0;
