@@ -22,12 +22,11 @@ body {
     margin:0;
 }
 #mainHeader {
-    margin-top: 3px;
     color: black;
     font-family: 'Montserrat', sans-serif;
-    font-size: 27px;
+    font-size: 30px;
     display:inline-block;
-    line-height: 40px;
+    text-align: center;
     padding:0;
     margin:0;
 }
