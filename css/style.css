@@ -9,12 +9,11 @@ body {
     background-color: white;
 }
 #logoContainer {
-    height: 30px;
+    height: 40px;
 }
 #logoContainer img {
-    height: 30px;
     display:inline-block;
-    margin: auto 0;
+    height: 40px;
 }
 #mainHeader {
     margin-top: 3px;
